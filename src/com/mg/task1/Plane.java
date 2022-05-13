@@ -1,6 +1,6 @@
 package com.mg.task1;
 
-public class Plane implements Example {
+public class Plane extends Example {
 
     String name;
 
