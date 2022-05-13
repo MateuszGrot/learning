@@ -1,7 +1,9 @@
 package com.mg.task1;
 
-public class Dog implements Example {
+public class Dog extends Example {
+
     String name;
+
 
     @Override
     public String setName(String name) {

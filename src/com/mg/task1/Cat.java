@@ -1,6 +1,6 @@
 package com.mg.task1;
 
-public class Cat implements Example {
+public class Cat extends Example {
 
     String name;
 
